@@ -1,1 +1,2 @@
-# Room
+# Trainingsraum App
+Vollständiges Projekt.
