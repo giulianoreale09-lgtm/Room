@@ -1,2 +1,0 @@
-# Trainingsraum App
-Vollständiges Projekt.
